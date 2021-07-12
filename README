@@ -1,0 +1,10 @@
+Android example for use of 
+- MediaPlayer
+- AudioManager to handle audio focus for:
+    - since Android API 26 
+    - and Android API below 26
+- ListView with ArrayAdapter
+- ViewPager to navigate between Fragments by swiping.
+
+Based on this Udacity repository:
+https://github.com/udacity/ud839_Miwok
